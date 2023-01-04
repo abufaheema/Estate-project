@@ -348,3 +348,50 @@ h1,h2,h3,h4,h5,h6{
   }
 
 
+
+  /* ------------------------------------------------------------------------RENT SECTION-----------------------------------------------------------------
+---------------------------------------------------------------------------------- */
+#hero4{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/assets/images/archi-6.jpg);
+    min-height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.c-img21{
+    background-image: url(/assets/images/arch1-1.jpg);
+    background-position: center;
+    
+
+  }
+  .c-img31{
+    background-image: url(/assets/images/archi-3.jpg);
+    background-position: center;
+    
+
+
+  }
+  .c-img41{
+    background-image: url(/assets/images/archi-2.jpg);
+    background-position: center;
+    
+
+
+  }
+  .c-img51{
+    background-image: url(/assets/images/archi-4.jpg);
+    background-position: center;
+    
+
+
+  }
+  .c-img61{
+    background-image: url(/assets/images/archi-5.jpg);
+    background-position: center;
+    
+
+
+  }
+
+
