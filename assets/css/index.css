@@ -201,34 +201,34 @@ h1,h2,h3,h4,h5,h6{
    
   }
   .c-img{
-    background-image: url(/assets/images/arch1-1.jpg);
+    background-image: url(../images/arch1-1.jpg);
     background-position: center;
     background-attachment: fixed;
     filter: brightness(0.8);
   }
   .c-img2{
-    background-image: url(/assets/images/archi-3.jpg);
+    background-image: url(../images/archi-3.jpg);
     background-position: center;
     background-attachment: fixed;
     filter: brightness(0.8);
 
   }
   .c-img3{
-    background-image: url(/assets/images/archi-2.jpg);
+    background-image: url(../images/archi-2.jpg);
     background-position: center;
     background-attachment: fixed;
     filter: brightness(0.8);
 
   }
   .c-img4{
-    background-image: url(/assets/images/archi-4.jpg);
+    background-image: url(../images/archi-4.jpg);
     background-position: center;
     background-attachment: fixed;
     filter: brightness(0.8);
 
   }
   .c-img5{
-    background-image: url(/assets/images/archi-5.jpg);
+    background-image: url(../images/archi-5.jpg);
     background-position: center;
     background-attachment: fixed;
     filter: brightness(0.8);
@@ -288,7 +288,7 @@ h1,h2,h3,h4,h5,h6{
 ---------------------------------------------------------------------------------- */
 
 #hero{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/assets/images/archi-3.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../images/archi-3.jpg);
     min-height: 50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -309,7 +309,7 @@ h1,h2,h3,h4,h5,h6{
 /* ---------------------------------------------------------------------------------PROPERTY SECTION---------------------------------------
 ---------------------------------------------------------------------------------------------------- */
 #hero1{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/assets/images/archi-2.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../images/archi-2.jpg);
     min-height: 50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -320,7 +320,7 @@ h1,h2,h3,h4,h5,h6{
 /* ------------------------------------------------------------------------SERVICES SECTION-----------------------------------------------------------------
 ---------------------------------------------------------------------------------- */
 #hero2{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/assets/images/new7.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../images/new7.jpg);
     min-height: 50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -333,7 +333,7 @@ h1,h2,h3,h4,h5,h6{
 /* ------------------------------------------------------------------------CONTACT SECTION-----------------------------------------------------------------
 ---------------------------------------------------------------------------------- */
 #hero3{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/assets/images/archi-5.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../images/archi-5.jpg);
     min-height: 50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -352,7 +352,7 @@ h1,h2,h3,h4,h5,h6{
   /* ------------------------------------------------------------------------RENT SECTION-----------------------------------------------------------------
 ---------------------------------------------------------------------------------- */
 #hero4{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/assets/images/archi-6.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../images/archi-6.jpg);
     min-height: 50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -360,20 +360,20 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .c-img21{
-    background-image: url(/assets/images/arch1-1.jpg);
+    background-image: url(../images/arch1-1.jpg);
     background-position: center;
     
 
   }
   .c-img31{
-    background-image: url(/assets/images/archi-3.jpg);
+    background-image: url(../images/archi-3.jpg);
     background-position: center;
     
 
 
   }
   .c-img41{
-    background-image: url(/assets/images/archi-2.jpg);
+    background-image: url(../images/archi-2.jpg);
     background-position: center;
     
 
